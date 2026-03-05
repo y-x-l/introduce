@@ -1,4 +1,4 @@
-#### ACGStream
+# ACGStream
 
 #### 介绍
 
@@ -66,15 +66,15 @@
 
 2、首页
 
-![首页.jpg](D:\temp\介绍\img\首页.jpg)
+![首页.jpg](img\首页.jpg)
 
 3、导航动漫分类
 
-![动漫.jpg](D:\temp\介绍\img\动漫.jpg)
+![动漫.jpg](img\动漫.jpg)
 
 4、投稿
 
-![投稿.jpg](D:\temp\介绍\img\投稿.jpg)
+![投稿.jpg](img\投稿.jpg)
 
 5、用户中心
 
@@ -82,24 +82,24 @@
 
 6、小说
 
-![小说.jpg](D:\temp\介绍\img\小说.jpg)
+![小说.jpg](img\小说.jpg)
 
 7、漫画
 
-![漫画.jpg](D:\temp\介绍\img\漫画.jpg)
+![漫画.jpg](img\漫画.jpg)
 
 8、审核
 
-![审核.jpg](D:\temp\介绍\img\审核.jpg)
+![审核.jpg](img\审核.jpg)
 
 9、用户管理
 
-![用户管理.jpg](D:\temp\介绍\img\用户管理.jpg)
+![用户管理.jpg](img\用户管理.jpg)
 
 10、数据看板
 
-![看板1.jpg](D:\temp\介绍\img\看板1.jpg)
+![看板1.jpg](img\看板1.jpg)
 
-![看板2.jpg](D:\temp\介绍\img\看板2.jpg)
+![看板2.jpg](img\看板2.jpg)
 
 ![看板2.jpg](img\看板3.jpg)
