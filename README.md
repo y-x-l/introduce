@@ -47,10 +47,7 @@
 
 1. 修改配置文件application.yml，deploy.sh文件
 2. 进入项目根目录， sh deploy.sh，等待脚本执行完成即可
-   
    ![](C:/Users/yanxi/AppData/Roaming/marktext/images/2026-03-06-00-38-37-image.png)
-   
-    
 
 #### 使用说明
 
