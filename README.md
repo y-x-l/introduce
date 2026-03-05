@@ -56,8 +56,7 @@
 #### 展示页面内容
 
 1、登录
-
-<img title="" src="img/登录.jpg" alt="登录.jpg" width="681">
+![首页.jpg](img/登录.jpg)
 
 2、首页
 
